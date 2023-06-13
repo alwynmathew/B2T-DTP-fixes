@@ -6,7 +6,7 @@ replace `ifc:Class` with `https://www.bim2twin.eu/ontology/Core#hasElementType` 
 The code was extracted from the internal code of WP3.
 
 > **Warning**
-> CAUTION: This script modified multiple nodes in the graph.
+> This script modified multiple nodes in the graph.
 
 You can run the script with the below command:
 
