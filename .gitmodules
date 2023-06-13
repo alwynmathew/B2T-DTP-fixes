@@ -1,0 +1,4 @@
+[submodule "DTP_API"]
+	path = DTP_API
+	url = git@github.com:copyme/DTP_API.git
+	branch = main
