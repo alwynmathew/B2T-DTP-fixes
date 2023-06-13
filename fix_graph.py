@@ -94,7 +94,7 @@ class FixDTPGraph:
                                                       field=self.DTP_CONFIG.get_ontology_uri('hasElementType'),
                                                       field_value=new_ifc_class_value)
 
-            return True if delete_resp and add_resp else False
+            return True if add_resp else False
         else:
             return False
 
